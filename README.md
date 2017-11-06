@@ -4,10 +4,10 @@ This project is based on ORM database mapping for multiple courses for a topic. 
 
 
 # Environment
- SpringBoot Framework
- STS
- Spring Initalizr
- JPA
- JAVA
- Maven
+* SpringBoot Framework
+* STS
+* Spring Initalizr
+* JPA
+* JAVA
+* Maven
  
